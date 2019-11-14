@@ -1,0 +1,9 @@
+.cocos-project.json
+CMakeLists.txt
+.DS_Store
+.idea/
+proj.linux/
+proj.tizen/
+proj.win10/
+proj.win32/
+proj.win8.1-universal/
